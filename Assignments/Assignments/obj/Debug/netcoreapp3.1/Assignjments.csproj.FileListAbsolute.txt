@@ -1,0 +1,14 @@
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\bin\Debug\netcoreapp3.1\Assignjments.exe
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\bin\Debug\netcoreapp3.1\Assignjments.deps.json
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\bin\Debug\netcoreapp3.1\Assignjments.runtimeconfig.json
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\bin\Debug\netcoreapp3.1\Assignjments.runtimeconfig.dev.json
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\bin\Debug\netcoreapp3.1\Assignjments.dll
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\bin\Debug\netcoreapp3.1\Assignjments.pdb
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\obj\Debug\netcoreapp3.1\Assignjments.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\obj\Debug\netcoreapp3.1\Assignjments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\obj\Debug\netcoreapp3.1\Assignjments.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\obj\Debug\netcoreapp3.1\Assignjments.AssemblyInfo.cs
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\obj\Debug\netcoreapp3.1\Assignjments.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\obj\Debug\netcoreapp3.1\Assignjments.dll
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\obj\Debug\netcoreapp3.1\Assignjments.pdb
+C:\Users\husey\Desktop\Assignments\22-10-2021\Assignjments\Assignjments\obj\Debug\netcoreapp3.1\Assignjments.genruntimeconfig.cache
