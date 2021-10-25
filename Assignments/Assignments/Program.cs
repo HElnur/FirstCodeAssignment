@@ -52,23 +52,30 @@ namespace Assignjments
 
             //Assignment-3
        
-            //Console.WriteLine("Number => ");
-            //int number = Convert.ToInt32(Console.ReadLine());
-            
+            Console.WriteLine("Number => ");
+            int number = Convert.ToInt32(Console.ReadLine());
 
-            //for(var i = 0; i < number; i++)
-            //{
-            //    if (i*i <= number)
-            //    {
-            //        continue;
-            //    }
+            if (number <= 0)
+            {
+                Console.WriteLine("Bu ededin koku yoxdur!");
+            }
 
-            //    else
-            //    {
-            //        Console.WriteLine(i - 1);
-            //        break;
-            //    }
-            //}
+            else
+            {
+                for (var i = 0; i < number; i++)
+                {
+                    if (i * i <= number)
+                    {
+                        continue;
+                    }
+
+                    else
+                    {
+                        Console.WriteLine(i - 1);
+                        break;
+                    }
+                }
+            }
 
             
 
